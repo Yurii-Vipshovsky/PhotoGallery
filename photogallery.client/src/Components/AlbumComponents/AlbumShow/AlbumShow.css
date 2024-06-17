@@ -1,0 +1,15 @@
+.add-image{
+    margin-bottom: 20px;
+}
+
+.buttons-conteiner{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.thumbnail {
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}

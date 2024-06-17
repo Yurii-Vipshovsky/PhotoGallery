@@ -1,0 +1,24 @@
+.album-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.album-table th, .album-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.album-table th {
+    background-color: #f4f4f4;
+}
+
+.album-table img {
+    max-width: 100px;
+    height: auto;
+}
+
+.new-button{
+    margin-top: 20px;
+}
